@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sirjosev)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sirjosev&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
 <!--
 **sirjosev/sirjosev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
